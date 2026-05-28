@@ -1,81 +1,197 @@
-![MasterHead](https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Aakash Vishwakarma</h1>
-<h3 align="center">💡 Tech enthusiast | Aspiring Data Analyst | Lifelong Learner</h3>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Aakash%20Vishwakarma&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=18&descAlignY=58&descColor=8b949e&animation=fadeIn" alt="header"/>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg" />
+<br/>
 
-<p align="left">
-  <a href="https://twitter.com/aakashhuhh" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/aakashhuhh?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+insights+%F0%9F%93%88;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;100K%2B+records+analysed+%E2%9C%85;BCA+Graduate+%7C+8.1+CGPA+%F0%9F%8E%93;Open+to+Full-Time+Analyst+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
----
+<br/>
 
-- 📊 Aspiring **Data Analyst** with a strong foundation in **Python, Excel, SQL, Pandas**, and **Power BI**
-- 🌱 Currently learning: **Data Visualization**, **Machine Learning**, and **Advanced Excel Functions**
-- 💬 Ask me about: **Data Analysis, Visualization, Python, Power BI, or anything tech!**
-- 📫 Reach me at: **aakashv065@gmail.com**
-- ⚡ Fun fact: *When I’m not crunching data, I’m probably watching movies, gaming, or vibing to soft songs* 🎬🎮🎧
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashhuhh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aakashhuhh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashv065@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakashv-X)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=aakashv-X&label=Profile+Views&color=58a6ff&style=flat)
 
-### 🤝 Connect with me
-
-<p align="left">
-  <a href="https://twitter.com/aakashhuhh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/aakashhuhh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/aakashhuhh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 📌 Featured Projects
+## 👨‍💻 About Me
 
-- 🧠 [Customer Churn Prediction (Logistic Regression)](https://github.com/aakashv-X/churn-app.git)  
-  _Predicting customer churn using Python & logistic regression, with visual EDA and Streamlit interface._
+```python
+aakash = {
+    "role"       : "Data Analyst",
+    "location"   : "Uttar Pradesh, India 🇮🇳 | Open to Relocation",
+    "education"  : "BCA — Babu Banarasi Das University (8.1 CGPA)",
+    "focus"      : ["EDA", "Dashboard Reporting", "KPI Tracking", "ETL Pipelines"],
+    "tools"      : ["SQL", "Python", "Power BI", "Excel", "Pandas"],
+    "currently"  : "Building data projects & sharpening ML skills",
+    "fun_fact"   : "I debug code like I watch movies — obsessively 🎬"
+}
+```
 
-- 📊 [Online Sales Dashboard - Power BI](https://github.com/aakashv-X/ecommerce-sales-dashboard.git)  
-  _Interactive sales performance dashboard built using Power BI — clean visuals and insights._
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
+- 📊 Analysed **100K+ real-world records** across ride-booking and sales datasets
+- 🏗️ Built end-to-end pipelines: data collection → cleaning → EDA → dashboards → KPIs
+- 🌱 Currently levelling up in **Machine Learning** and **Advanced Data Visualization**
+- 🤝 Looking for **full-time Data Analyst** opportunities
+- 📫 Reach me: **aakashv065@gmail.com**
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashv-X&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashv-X&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### Languages & Querying
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakas
+### Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C9BE8?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### Database & Tools
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Web & Design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🏗️ SQL Data Warehouse & ETL Pipeline
+**`SQL Server` `ETL` `Data Modeling`**
+
+Designed a production-style **multi-layer warehouse** (Bronze → Silver → Gold) for end-to-end analytics.
+
+- ✅ Built ETL pipelines to clean, transform & load structured datasets
+- ✅ Created analytical views for customer, product & sales analysis
+- ✅ Implemented SQL-based data quality checks throughout
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/aakashv-X)
+
+</td>
+    <td width="50%" valign="top">
+
+### 🚖 OLA Cabs Booking Analysis
+**`SQL` `Power BI` `EDA`**
+
+Analysed **100K+ ride records** to uncover booking success rates, cancellation patterns & revenue drivers.
+
+- ✅ Identified **62% successful booking rate** & 28% cancellation breakdown
+- ✅ Pinpointed top-performing vehicle types & maintained 4.0 avg. customer rating
+- ✅ SQL joins & aggregations to map customer behavior trends
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/aakashv-X)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### ✈️ traveLLex — AI Travel Planner
+**`Python` `Flask` `Web Scraping`**
+
+A full-stack travel planning app that scrapes **live pricing data** and maps user inputs to ranked itineraries.
+
+- ✅ Reduced manual travel research time by **70%**
+- ✅ Personalised recommendations based on destination, budget & duration
+- ✅ End-to-end pipeline: scraping → cleaning → Flask front-end
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakashv-X)
+
+</td>
+    <td width="50%" valign="top">
+
+### 📉 Customer Churn Prediction
+**`Python` `Logistic Regression` `Streamlit`**
+
+Predicted customer churn with visual EDA and an interactive Streamlit interface.
+
+- ✅ End-to-end ML workflow: data prep → model training → evaluation
+- ✅ Visual EDA uncovering key churn drivers
+- ✅ Deployed as a live Streamlit app
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/aakashv-X/churn-app)
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| 🎓 Data Science & Analytics | HP LIFE | Aug 2025 |
+| 🎓 GenAI Powered Data Analytics Job Simulation | Tata | Aug 2025 |
+| 🎓 Data Analytics Job Simulation | Deloitte Australia | Jul 2025 |
+
+---
+
+## 💼 Experience Highlights
+
+**🔬 Data Science Intern @ Digipodium** *(Feb 2025 – May 2025, Lucknow)*
+> Built *traveLLex* — a full-stack travel app using Python, Flask & web scraping to automate itinerary recommendations.
+
+**🌐 Web Development Intern @ Brainwave Matrix Solutions** *(Jul 2024, Remote)*
+> Managed MySQL databases, built data validation pipelines, and processed structured inputs for web-based reporting.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aakashv-X&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashv-X&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashv-X&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" alt="streak"/>
+
+</div>
+
+---
+
+## 🌟 Beyond the Data
+
+- 🏅 **Volunteer** — Khelo India University Games 2023 (4,000+ athlete event)
+- 🎓 **Class Representative** — liaison for 80+ students & faculty
+- 🤝 **Student Placement Coordinator** — connected peers with internships & jobs
+- 🎬 When not crunching numbers: movies, gaming & soft songs 🎮🎧
+
+---
+
+<div align="center">
+
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" alt="footer"/>
+
+</div>
