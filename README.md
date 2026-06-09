@@ -26,7 +26,7 @@
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
   
-  <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="280" align="right" style="margin-left: 5px;">
+  <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="250" align="right" style="margin-left: 10px;">
   
   <h3>Top Projects (built to avoid manual labour)</h3>
 <a href="https://github.com/aakashhuhh/sql-data-cleaning-analysis"><img src="https://img.shields.io/badge/SQL%20Data%20Cleaning%20%26%20Analysis-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; <br>SQL-based data cleaning and analysis to turn messy datasets into useful insights.<br><br> 
