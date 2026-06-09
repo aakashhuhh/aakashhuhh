@@ -26,13 +26,13 @@
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
   
-  <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="250" align="right" style="margin-left: 15px;">
+  <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="280" align="right" style="margin-left: 5px;">
   
   <h3>Top Projects (built to avoid manual labour)</h3>
 <a href="https://github.com/aakashhuhh/sql-data-cleaning-analysis"><img src="https://img.shields.io/badge/SQL%20Data%20Cleaning%20%26%20Analysis-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; <br>SQL-based data cleaning and analysis to turn messy datasets into useful insights.<br><br> 
 <a href="https://github.com/aakashhuhh/power-bi-hr-analytics-dashboard"><img src="https://img.shields.io/badge/Power%20BI%20HR%20Analytics-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; <br>Interactive HR dashboard for tracking employee trends, attrition, and workforce insights.<br> <br>
 <a href="https://github.com/aakashhuhh/traveLLex"><img src="https://img.shields.io/badge/traveLLex-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; <br>Travel-focused project built to simplify trip planning and organise travel details efficiently.<br><br>
-<a href="https://github.com/aakashhuhh/OLA-Cabs-Data-Analysis"><img src="https://img.shields.io/badge/OLA%20Cabs%20Data%20Analysis-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Data analysis project uncovering ride patterns, cancellations, and customer behaviour in OLA data.
+<a href="https://github.com/aakashhuhh/OLA-Cabs-Data-Analysis"><img src="https://img.shields.io/badge/OLA%20Cabs%20Data%20Analysis-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; <br>Data analysis project uncovering ride patterns, cancellations, and customer behaviour in OLA data.
 
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
