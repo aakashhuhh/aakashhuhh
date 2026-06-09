@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <h2>Know About Me</h2>
+  <h2>KNOW ABOUT ME</h2>
 </div>
 
 <img src="https://github.com/aakashhuhh/aakashhuhh/blob/main/Brain.png" width="210" align="left" style="margin-right: 15px;">
